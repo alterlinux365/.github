@@ -20,4 +20,4 @@
 4. get the releases: https://github.com/alterlinux365/9312-alterlinux-iso/releases
 5. contact by telegram:  https://t.me/+2no03SFXF0cyZmJl
 
-![图片](https://user-images.githubusercontent.com/1329093/200158840-30bf5573-5df9-4633-baf7-34a04b987aeb.png)
+ <img src=https://user-images.githubusercontent.com/1329093/200158840-30bf5573-5df9-4633-baf7-34a04b987aeb.png width=30% />
